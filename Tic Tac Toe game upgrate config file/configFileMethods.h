@@ -24,5 +24,3 @@ void LoadSettings(int method);
 void SaveSettings(int method, HWND hwnd);
 
 #endif
-
-
